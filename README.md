@@ -54,7 +54,7 @@ Feel free to reach out to me via email at [jimuelbaraero00@gmail.com] or connect
 
 ---
 
-_**Note**: Replace the placeholders like `yourusername`, `yourprofile`, `your.email@example.com`, `Project Name`, etc., with your actual information._
+
 
 ---
 
