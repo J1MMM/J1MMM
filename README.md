@@ -3,15 +3,23 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/jimuel-baraero-b49628243)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://www.facebook.com/jimuel.baraero)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?logo=web&logoColor=white)](https://portfolio-website-sigma-mocha.vercel.app/)
+
+<a href="https://www.linkedin.com/in/jimuel-baraero-b49628243/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.facebook.com/jimuel.baraero" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://portfolio-website-sigma-mocha.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-green?logo=web&logoColor=white" alt="Portfolio">
+</a>
+
 
 ## 💼 About Me
 I am a passionate web developer with expertise in both front-end and back-end development. I enjoy building responsive, user-friendly websites and web applications that solve real-world problems.
 
 
-- 🌱 I’m currently learning more about MERN stack
+- 🌱 I’m currently learning more about MERN stack and other Tech
 - 💬 Ask me about anything related to web development
 - 📫 How to reach me: jimuelbaraero00@gmail.com
 
