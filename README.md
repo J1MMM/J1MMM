@@ -52,8 +52,6 @@ PPPKids is a gaming app designed for children in the Pag-Ibig At Pag-Asa program
 ## 📫 Contact Me
 Feel free to reach out to me via email at [jimuelbaraero00@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/jimuel-baraero-b49628243/). I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
----
-
 
 
 ---
