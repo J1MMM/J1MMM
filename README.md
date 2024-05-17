@@ -50,7 +50,7 @@ PPPLearning Tool is a web app similar to Google Classroom that manages lessons a
 PPPKids is a gaming app designed for children in the Pag-Ibig At Pag-Asa program. It customizes its content based on each student's learning disabilities, providing tailored educational experiences to support their unique needs.
 
 ## 📫 Contact Me
-Feel free to reach out to me via email at [jimuelbaraero00@gmail.com] or connect with me on [LinkedIn](www.linkedin.com/in/jimuel-baraero-b49628243). I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+Feel free to reach out to me via email at [jimuelbaraero00@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/jimuel-baraero-b49628243/). I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 ---
 
