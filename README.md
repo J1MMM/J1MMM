@@ -40,13 +40,13 @@ I am a passionate web developer with expertise in both front-end and back-end de
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 🔗 Featured Projects
-### TRICYCLE FRANCHISING AND RENEWAL SYSTEM(https://github.com/J1MMM/kapitolyo-website)
+### [TRICYCLE FRANCHISING AND RENEWAL SYSTEM](https://github.com/J1MMM/kapitolyo-website)
 The TRICYCLE FRANCHISING AND RENEWAL SYSTEM is a comprehensive web-based application designed to facilitate the management of tricycle franchise information. It offers features for efficiently handling franchise applications, renewals, and related data.
 
-### PPPLearning Tool(https://github.com/J1MMM/ppp-learning-tool)
+### [PPPLearning Tool](https://github.com/J1MMM/ppp-learning-tool)
 PPPLearning Tool is a web app similar to Google Classroom that manages lessons and students, and can monitor students' progress on the game (PPPKids) in Pag-Ibig At Pag-Asa.
 
-### PPPKids Game App(https://github.com/J1MMM/pppkids)
+### [PPPKids Game App](https://github.com/J1MMM/pppkids)
 PPPKids is a gaming app designed for children in the Pag-Ibig At Pag-Asa program. It customizes its content based on each student's learning disabilities, providing tailored educational experiences to support their unique needs.
 
 ## 📫 Contact Me
